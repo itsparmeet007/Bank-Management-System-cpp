@@ -45,39 +45,9 @@ Beginner-friendly + structured
 🛠️ Technologies Used
 
 C++17
-
 OOP Concepts
-
 STL Vector
-
 Input/Output streams
-
-📁 Project Structure
-BankManagementSystem/
-│
-├── main.cpp        # Entire source code
-├── README.md       # Project documentation
-
-📦 How to Run
-
-Install any C++ compiler (g++ recommended).
-
-Save the code as main.cpp.
-
-Compile the program:
-
-g++ main.cpp -o bank
-
-
-Run it:
-
-./bank
-
-
-For Windows (MinGW):
-
-g++ main.cpp -o bank.exe
-bank.exe
 
 📌 How It Works
 ➤ Main Menu
