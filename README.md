@@ -5,7 +5,7 @@
 A simple but structured console-based Bank Management System built using Object-Oriented Programming in C++.
 It allows creating customer accounts, logging in, checking balance, depositing money, withdrawing money, and viewing all customer details (admin view).
 
-🚀 Features
+#🚀 Features
 ✔ Customer Module
 
 Create a new customer
